@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/danieldram/inherit-prototypes/issues"
   },
-  "homepage": "https://github.com/danieldram/inherit-prototypes#readme"
+  "homepage": "https://github.com/danieldram/inherit-prototypes#readme",
+  "dependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "chai": "^3.3.0",
+    "wallabify": "0.0.9"
+  }
 }
