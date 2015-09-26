@@ -1,0 +1,27 @@
+{
+  "name": "inherit-prototypes",
+  "version": "0.1.0",
+  "description": "inherit prototypes of ES6 / ES5 classes in a simple compact function",
+  "main": "inherit-prototypes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldram/inherit-prototypes.git"
+  },
+  "keywords": [
+    "inherit",
+    "prototypes",
+    "extend",
+    "prototypes",
+    "javascript",
+    "classes"
+  ],
+  "author": "Daniel ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieldram/inherit-prototypes/issues"
+  },
+  "homepage": "https://github.com/danieldram/inherit-prototypes#readme"
+}
