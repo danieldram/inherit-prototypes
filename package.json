@@ -1,8 +1,8 @@
 {
   "name": "inherit-prototypes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "inherit prototypes of ES6 / ES5 classes in a simple compact function",
-  "main": "inherit-prototypes.js",
+  "main": "src/inherit-prototypes.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +18,7 @@
     "javascript",
     "classes"
   ],
-  "author": "Daniel ram",
+  "author": "Daniel Ram",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/danieldram/inherit-prototypes/issues"
